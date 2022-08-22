@@ -12,6 +12,7 @@ public class arrayandstringtest {
         String s2 = arrayandstringtest.f2(s1);
         System.out.println(s2);        
     
+        System.out.println("hahahahahahha");
     }
 
 
