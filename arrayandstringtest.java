@@ -6,7 +6,7 @@ public class arrayandstringtest {
         //统计并输出上述字符出现的次数，并将所有出现的索引打印输出
 
         System.out.println("在主函数中随便说一句话");
-        String s1 = new String("sadasdaasds1 d1 324 1aas15fdhdf");
+        String s1 = new String("swreojajqoE DFSAOHJ 23 89ASD Las jopias ds1 d1 324 1aas15fdhdf");
         String s2 = arrayandstringtest.f2(s1);
         System.out.println(s2);        
     
