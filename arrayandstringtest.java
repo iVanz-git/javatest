@@ -33,7 +33,10 @@ public class arrayandstringtest {
 
             String res = stringBuilder.toString();
             String indexRes = stringBuilder1.toString();
+            System.out.println("在方法中随便说句话");
             return "替换后的字符串为：\n" + res + "\n一共有" + count + "个字符被替换，被替换的字符在原字符串中的索引位置如下：" + indexRes;
+
+            
         }
     
     
