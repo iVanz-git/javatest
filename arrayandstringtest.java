@@ -13,6 +13,7 @@ public class arrayandstringtest {
         System.out.println(s2);        
     
         System.out.println("hahahahahahha");
+        System.out.println("lalalallalalala");
     }
 
 
